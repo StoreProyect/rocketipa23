@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://79.170.40.247/thsapp.us/iPAS/Toytroopers.ipa</string>
+                   <string>http://79.170.40.247/thsapp.us/iPAS/tinytroopers.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -30,7 +30,7 @@
                <key>kind</key>
                <string>software</string>
                <key>title</key>
-               <string>Toytroopers - RocketiPA</string>
+               <string>TinyTroopers2 - RocketiPA</string>
            </dict>
        </dict>
    </array>
